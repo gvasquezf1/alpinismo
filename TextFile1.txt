@@ -1,0 +1,10 @@
+Connection string
+Server=f241ef81-a42d-44bf-b58f-a15700037eb4.sqlserver.sequelizer.com;Database=dbf241ef81a42d44bfb58fa15700037eb4;User ID=hpgjhzlferqsdzht;Password=5edVpfUyu3FqJTUsYM8iJQ3oBMsaeevPN7V8x8BkYXbywiKy5u2D6ijokWsKVUup;
+
+
+
+
+Connect with database management tool
+Host: f241ef81-a42d-44bf-b58f-a15700037eb4.sqlserver.sequelizer.com 
+Username: hpgjhzlferqsdzht 
+Password: 5edVpfUyu3FqJTUsYM8iJQ3oBMsaeevPN7V8x8BkYXbywiKy5u2D6ijokWsKVUup
